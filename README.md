@@ -74,13 +74,9 @@ This software is proprietary and confidential. Redistribution or modification wi
 --------------------------------------------------
 CONTACT
 --------------------------------------------------
-Email    : nishikanthpersonal@gmail.com  
-Phone    : +91 9025869998  
+Email    : nishikanthpersonal@gmail.com   
 LinkedIn : https://www.linkedin.com/in/a-nishikanth/ 
 
 --------------------------------------------------
 
 
----
-
-Let me know if you'd like a GitHub-style README.md too — or if you want to include a changelog or contributor section.
