@@ -1,4 +1,4 @@
-**PROJECT-M QUOTATION GENERATOR**
+**QUOTATION GENERATOR**
 
 Author   : Nishikanth  
 Version  : 1.0  
@@ -7,7 +7,7 @@ License  : © 2025 Nishikanth. All Rights Reserved.
 --------------------------------------------------
 PROJECT OVERVIEW
 --------------------------------------------------
-Project-M is a professional CLI-based quotation generator tailored for freelancers and tech consultants. It intelligently evaluates effort, complexity, client behavior, and technical requirements to auto-generate a detailed PDF quotation using customizable pricing coefficients.
+This is a professional CLI-based quotation generator tailored for freelancers and tech consultants. It intelligently evaluates effort, complexity, client behavior, and technical requirements to auto-generate a detailed PDF quotation using customizable pricing coefficients.
 
 --------------------------------------------------
 FEATURE HIGHLIGHTS
