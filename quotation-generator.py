@@ -23,7 +23,7 @@ MU5 = float(os.getenv("MU5", 2500))
 COMPANY_NAME = "Project-Money"
 COMPANY_ADDRESS = "440, North street, Viralimalai, Pudukkottai - 621316"
 COMPANY_EMAIL = "nishikanthpersonal@gmail.com"
-COMPANY_PHONE = "9025869998"
+COMPANY_PHONE = "0000000000"
 
 # Feature Sets
 complexity_features = {
